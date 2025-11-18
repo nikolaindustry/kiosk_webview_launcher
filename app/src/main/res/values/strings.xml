@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Kiosk WebView Launcher</string>
+    <string name="settings_title">Settings</string>
+    <string name="password_label">Enter Password</string>
+    <string name="password_hint">Enter password to access settings</string>
+    <string name="verify_button">Verify Password</string>
+    <string name="url_label">Website URL</string>
+    <string name="url_hint">https://example.com</string>
+    <string name="url_instructions">Enter the URL that will load when the app starts. Include https:// or http://</string>
+    <string name="save_button">Save URL</string>
+    <string name="change_password_label">Change Password</string>
+    <string name="new_password_hint">Enter new password</string>
+    <string name="confirm_password_hint">Confirm new password</string>
+    <string name="change_password_button">Update Password</string>
+    <string name="kiosk_instructions">Kiosk Mode Instructions:
+
+1. Set this app as your default home launcher
+2. Long press Volume Down button to access settings
+3. The WebView supports all modern web features including payments, popups, and JavaScript
+4. All necessary permissions will be requested on first launch
+5. Default password: 12345
+6. To refresh the page: Swipe down with 3 fingers</string>
+</resources>
