@@ -65,7 +65,7 @@ Swipe down with 3 fingers to manually reload the webpage.
 
 ### Default Settings
 
-- **Default URL**: `https://www.google.com`
+- **Default URL**: `https://www.nikolaindustry.com`
 - **Default Password**: `12345`
 - **Tap Threshold**: 11 taps
 - **Tap Timeout**: 3 seconds
